@@ -1,6 +1,6 @@
 # Whooshing 门户网站
 
-https://whooshings.space
+另见主项目 [whooshing](https://github.com/SJJC-Team/whooshing)
 
 展示尚境家传教育理念的公开信息，并提供基本账号的注册。
 
